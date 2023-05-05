@@ -1,5 +1,5 @@
 # RayTracer
-Created a Ray Tracer using a book called Ray Tracing in One Weekend in C++.
+Created a Ray Tracer using C++. Book called Ray Tracing in One Weekend.
 
 ## Usage
 
