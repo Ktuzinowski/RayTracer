@@ -11,4 +11,3 @@ g++ finalRender.cpp -o main.exe
 ```
 
 ## RESULT
-
