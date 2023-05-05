@@ -11,3 +11,4 @@ g++ finalRender.cpp -o main.exe
 ```
 
 ## RESULT
+![Image of Running Ray Tracer](https://github.com/Ktuzinowski/RayTracer/KevinTuzinowskiFinalRender2.jpg?raw=true)
